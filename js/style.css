@@ -1,0 +1,41 @@
+.loadMoreRepeat {
+    flex: 0 1 31%;
+    margin: 15px 15px;
+    border: 1px solid rgba(0,0,0,.125);
+}
+.dcsDemoWrapper {
+        display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-content: center;
+    align-items: flex-end;
+}
+a.btn.btn-primary.dcsLoadMorePostsbtn {
+    background-color: #ff724c;
+    border-color: #ee6d4b;
+    padding: 1rem 1.5rem;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.btnLoadmoreWrapper {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+.post-content-sec {
+    padding: 20px;
+}
+
+p.noMorePostsFound {
+    font-size: 18px;
+}
+.nomore-post{
+    text-align: center;
+}
+.nomore-post {
+    text-align: center;
+    display: block;
+    width: 100%;
+}
